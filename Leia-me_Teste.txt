@@ -3,3 +3,5 @@ Teste de uso do Git para iniciação do projeto pessoal de um Sistema Gerenciado
 Continuando a descrição, esse projeto teve como inspiração as aulas do canal Hora de Codar do profissional Matheus Battisti que ensina os conceitos iniciais do Laravel e desenvolve o projeto.
 
 Minha ideia confeccionar esse projeto e personaliza-ló posteriormente para mercado de Jogos.
+
+Testando modificação de arquivos no repositório remoto para atualizar o local.
