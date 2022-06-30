@@ -1,0 +1,1 @@
+Teste de uso do Git para iniciação do projeto pessoal de um Sistema Gerenciador de Eventos feito utilizando Laravel - Framework PHP.
